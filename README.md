@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/haitaabe" alt="haitaabe's 42 stats" /></a>
 <!--
 **7vmzvait/7vmzvait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
